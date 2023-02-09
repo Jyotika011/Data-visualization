@@ -9,3 +9,5 @@ import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
 from sklearn import decomposition
 from sklearn import datasets
+
+![Screenshot (79)](https://user-images.githubusercontent.com/112623017/217800145-2f5a7475-c169-4fc2-a968-2273c3964230.png)
